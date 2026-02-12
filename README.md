@@ -8,4 +8,4 @@
 
 #Сборка проекта
 В корне проекта выполнить:
-\mvn clean package\
+```mvn clean package```
